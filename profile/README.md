@@ -7,6 +7,7 @@
 👩‍💻 Useful resources:
 
 - Docs → [https://toucaan.com/docs](https://toucaan.com/docs)
+- Blog → [https://toucaan.com/blog](https://toucaan.com/blog)
 - The book → [Intrinsic Design with Toucaan](https://bubblin.io/cover/the-toucaan-framework-by-marvin-danig#frontmatter)
 - Demo → [Red Goose](https://goose.red)
 
