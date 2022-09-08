@@ -8,6 +8,7 @@
 
 - Docs → [https://toucaan.com/docs](https://toucaan.com/docs)
 - The book → [Intrinsic Design with Toucaan](https://bubblin.io/cover/the-toucaan-framework-by-marvin-danig#frontmatter)
+- Demo → [Red Goose](https://goose.red)
 
 🍿 Fun facts:
 
