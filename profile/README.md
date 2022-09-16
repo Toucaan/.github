@@ -13,7 +13,7 @@
 
 🍿 Fun facts:
 - Toucan is a beautiful bird from South America that symbolizes beauty, vivid colors, and a little bit of aggression.
-- Toucans are endangered and you can help rescue the specie at [https://toucanrescueranch.org](https://toucanrescueranch.org). Toco toco!
+- Toucans are endangered and you can help rescue the specie at the [Toucan Rescue Ranch](https://toucanrescueranch.org). Toco toco!
 
 🗿 Our motto:
 - If Toucaan, then you-can-too!
