@@ -16,7 +16,7 @@
 - Reach out to our captain on [Twitter](https://twitter.com/marvindanig). 
 
 
-🍿 Fun facts:
+📌 Facts:
 - Toucan is a beautiful bird from South America that symbolizes beauty, vivid colors, and a little bit of aggression.
 - Toucans are endangered and you can help rescue the specie at the [Toucan Rescue Ranch](https://toucanrescueranch.org). Toco toco!
 
