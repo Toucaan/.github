@@ -6,6 +6,7 @@
 
 - Docs → [https://toucaan.com/docs](https://www.toucaan.com/docs/getting-started)
 - Blog → [https://toucaan.com/blog](https://toucaan.com/blog)
+- Discussions → [GitHub Discussions](https://github.com/Toucaan/toucaan.docs/discussions)
 - The book → [Intrinsic Design with Toucaan](https://bubblin.io/cover/the-toucaan-framework-by-marvin-danig#frontmatter)
 - Live demo → [Red Goose](https://goose.red)
 
