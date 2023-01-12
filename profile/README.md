@@ -13,7 +13,7 @@
 🎙 Podcast or Conferences:
 
 - We'll be honored to be on your podcast or conference to talk about Toucaan or Intrinsic Design for the future of the web. 
-- Reach out to our captain on [Twitter](https://twitter.com/marvindanig). 
+- Reach out to our captain on [Mastodon](https://mastodon.social/@marvindanig). 
 
 
 📌 Facts:
