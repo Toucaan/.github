@@ -24,7 +24,7 @@
 🗿 Our motto:
 - If Toucaan, then you-can-too!
 
-🌈 [Contributing guidelines](https://github.com/Toucaan/toucaan/blob/master/CONTRIBUTING.md).
+🌈 [Contributing guidelines](https://github.com/Toucaan/toucaan.research/blob/master/CONTRIBUTING.md).
 
 📌 [Licenses](https://github.com/Toucaan/toucaan/blob/master/LICENSE.md).
 
