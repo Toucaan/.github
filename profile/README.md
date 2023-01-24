@@ -13,7 +13,7 @@
 
 🎙 Podcast or Conferences:
 
-- We'll be honored to be on your podcast or conference to talk about Toucaan or Intrinsic Design for the future of the web. 
+- We'll be honored to be on your podcast or conference to talk about Toucaan and the _idea of absolute determinism_ in web-design. 
 - Reach out to our captain on [Mastodon](https://mastodon.social/@marvindanig). 
 
 
