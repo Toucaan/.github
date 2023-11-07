@@ -10,6 +10,11 @@
 - The book → [Intrinsic Design with Toucaan](https://bubblin.io/cover/the-toucaan-framework-by-marvin-danig#frontmatter)
 - Live demo → [Red Goose](https://goose.red)
 
+## Chronology:
+
+- My first talk on [CSS Architecture, 2024 — A Primer on Intrinsic Web Design](https://github.com/Toucaan/css-architecture-2024-a-primer-on-intrinsic-web-design) at Dulles Code & Coffee.
+
+## Socials
 
 🎙 Podcast or Conferences:
 
@@ -18,12 +23,12 @@
 
 
 📌 Facts:
-- Toucan is a beautiful bird from South America that symbolizes beauty, vivid colors, and a little bit of aggression.
-- Toucans are endangered and you can help rescue the specie at the [Toucan Rescue Ranch](https://toucanrescueranch.org). Toco toco!
+- Toucans are beautiful birds of South America that symbolize vivid colors, strong social bonds, and a tad bit of aggressiveness. 
+- Toucans are endangered, and you can help rescue the species at the [Toucan Rescue Ranch](https://toucanrescueranch.org). Toco, toco!
 
 
 🗿 Our motto:
-- If Toucaan, then you-can-too!
+- Toco, toco—if Toucaan, then you can too!
 
 🌈 [Contributing guidelines](https://github.com/Toucaan/toucaan.research/blob/master/CONTRIBUTING.md).
 
