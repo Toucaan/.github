@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🙋‍♀️ Welcome to **Intrinsic Design** for the web _and_ mobile apps using [Toucaan](https://toucaan.com). 
+🙋‍♀️ Welcome to **Intrinsic Web Design** with [Toucaan](https://toucaan.com). 
 
 👩‍💻 Useful resources:
 
